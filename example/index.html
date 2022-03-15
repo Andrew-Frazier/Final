@@ -22,7 +22,7 @@
             snow: "images/snow.svg"
         }
 
-        d3.csv("https://raw.githubusercontent.com/analyzer2004/weathersankey/master/example/seattle_19.csv", d3.autoType).then(function (data) {
+        d3.csv("https://raw.githubusercontent.com/Andrew-Frazier/Final/master/example/seattle.csv", d3.autoType).then(function (data) {
             console.log(data)
             const svg = d3.select("body").append("svg")
                 .attr("cursor", "default")

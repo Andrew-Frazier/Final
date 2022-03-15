@@ -1,366 +1,366 @@
-,date,low,high,condition
-0,2014-7-1,60,94,Partially cloudy
-1,2014-7-2,58,81,Partially cloudy
-2,2014-7-3,57,71,Partially cloudy
-3,2014-7-4,57,75,Partially cloudy
-4,2014-7-5,56,76,Partially cloudy
-5,2014-7-6,59,84,Partially cloudy
-6,2014-7-7,64,81,Partially cloudy
-7,2014-7-8,60,86,Partially cloudy
-8,2014-7-9,57,80,Partially cloudy
-9,2014-7-10,55,84,Partially cloudy
-10,2014-7-11,59,88,Partially cloudy
-11,2014-7-12,62,90,Partially cloudy
-12,2014-7-13,59,85,Partially cloudy
-13,2014-7-14,59,82,Partially cloudy
-14,2014-7-15,57,88,Partially cloudy
-15,2014-7-16,58,88,Partially cloudy
-16,2014-7-17,57,80,Partially cloudy
-17,2014-7-18,53,75,Partially cloudy
-18,2014-7-19,59,78,Partially cloudy
-19,2014-7-20,58,67,Partially cloudy
-20,2014-7-21,56,75,Partially cloudy
-21,2014-7-22,56,70,Partially cloudy
-22,2014-7-23,56,66,Partially cloudy
-23,2014-7-24,55,69,Partially cloudy
-24,2014-7-25,54,73,Partially cloudy
-25,2014-7-26,56,79,Partially cloudy
-26,2014-7-27,59,83,Partially cloudy
-27,2014-7-28,59,87,Partially cloudy
-28,2014-7-29,60,86,Partially cloudy
-29,2014-7-30,58,85,Partially cloudy
-30,2014-7-31,64,87,Partially cloudy
-31,2014-8-1,59,84,Partially cloudy
-32,2014-8-2,60,85,Partially cloudy
-33,2014-8-3,58,89,Partially cloudy
-34,2014-8-4,61,91,Partially cloudy
-35,2014-8-5,57,77,Partially cloudy
-36,2014-8-6,59,79,Partially cloudy
-37,2014-8-7,56,78,Partially cloudy
-38,2014-8-8,56,78,Partially cloudy
-39,2014-8-9,60,81,Partially cloudy
-40,2014-8-10,57,87,Partially cloudy
-41,2014-8-11,64,96,Clear
-42,2014-8-12,63,81,Partially cloudy
-43,2014-8-13,59,74,Partially cloudy
-44,2014-8-14,63,70,Partially cloudy
-45,2014-8-15,62,76,Partially cloudy
-46,2014-8-16,60,78,Partially cloudy
-47,2014-8-17,59,82,Partially cloudy
-48,2014-8-18,60,85,Partially cloudy
-49,2014-8-19,60,81,Partially cloudy
-50,2014-8-20,57,71,Partially cloudy
-51,2014-8-21,52,70,Partially cloudy
-52,2014-8-22,56,75,Partially cloudy
-53,2014-8-23,57,82,Partially cloudy
-54,2014-8-24,56,77,Partially cloudy
-55,2014-8-25,58,84,Partially cloudy
-56,2014-8-26,60,88,Partially cloudy
-57,2014-8-27,61,84,Partially cloudy
-58,2014-8-28,58,74,Partially cloudy
-59,2014-8-29,59,73,Partially cloudy
-60,2014-8-30,59,64,Partially cloudy
-61,2014-8-31,57,70,Partially cloudy
-62,2014-9-1,55,74,Partially cloudy
-63,2014-9-2,57,68,Partially cloudy
-64,2014-9-3,55,69,Partially cloudy
-65,2014-9-4,52,75,Partially cloudy
-66,2014-9-5,57,82,Partially cloudy
-67,2014-9-6,59,90,Partially cloudy
-68,2014-9-7,56,83,Partially cloudy
-69,2014-9-8,56,70,Partially cloudy
-70,2014-9-9,56,71,Partially cloudy
-71,2014-9-10,54,72,Partially cloudy
-72,2014-9-11,55,76,Partially cloudy
-73,2014-9-12,55,76,Partially cloudy
-74,2014-9-13,50,83,Partially cloudy
-75,2014-9-14,53,86,Partially cloudy
-76,2014-9-15,54,87,Partially cloudy
-77,2014-9-16,57,72,Partially cloudy
-78,2014-9-17,58,73,Partially cloudy
-79,2014-9-18,59,67,Partially cloudy
-80,2014-9-19,61,75,Partially cloudy
-81,2014-9-20,58,76,Partially cloudy
-82,2014-9-21,55,79,Partially cloudy
-83,2014-9-22,59,72,Partially cloudy
-84,2014-9-23,58,66,Partially cloudy
-85,2014-9-24,58,66,Partially cloudy
-86,2014-9-25,58,71,Partially cloudy
-87,2014-9-26,57,68,Partially cloudy
-88,2014-9-27,53,69,Partially cloudy
-89,2014-9-28,54,66,Partially cloudy
-90,2014-9-29,52,62,Overcast
-91,2014-9-30,54,67,Partially cloudy
-92,2014-10-1,52,65,Overcast
-93,2014-10-2,50,67,Overcast
-94,2014-10-3,48,72,Partially cloudy
-95,2014-10-4,54,71,Partially cloudy
-96,2014-10-5,53,75,Partially cloudy
-97,2014-10-6,56,78,Partially cloudy
-98,2014-10-7,57,66,Partially cloudy
-99,2014-10-8,55,69,Partially cloudy
-100,2014-10-9,52,63,Overcast
-101,2014-10-10,50,65,Overcast
-102,2014-10-11,53,65,Overcast
-103,2014-10-12,53,64,Overcast
-104,2014-10-13,50,70,Partially cloudy
-105,2014-10-14,53,62,Overcast
-106,2014-10-15,53,61,Overcast
-107,2014-10-16,52,69,Partially cloudy
-108,2014-10-17,53,62,Overcast
-109,2014-10-18,57,67,Partially cloudy
-110,2014-10-19,55,72,Partially cloudy
-111,2014-10-20,54,61,Overcast
-112,2014-10-21,53,61,Overcast
-113,2014-10-22,53,60,Overcast
-114,2014-10-23,47,58,Overcast
-115,2014-10-24,48,58,Overcast
-116,2014-10-25,47,62,Overcast
-117,2014-10-26,46,55,Overcast
-118,2014-10-27,44,60,Overcast
-119,2014-10-28,49,59,Overcast
-120,2014-10-29,53,62,Overcast
-121,2014-10-30,52,60,Overcast
-122,2014-10-31,47,55,Overcast
-123,2014-11-1,45,52,Overcast
-124,2014-11-2,45,56,Overcast
-125,2014-11-3,52,57,Overcast
-126,2014-11-4,51,58,Overcast
-127,2014-11-5,51,59,Overcast
-128,2014-11-6,51,62,Overcast
-129,2014-11-7,45,58,Overcast
-130,2014-11-8,39,55,Overcast
-131,2014-11-9,46,56,Overcast
-132,2014-11-10,42,52,Overcast
-133,2014-11-11,34,46,Overcast
-134,2014-11-12,32,44,Rain
-135,2014-11-13,33,45,Rain
-136,2014-11-14,28,45,Rain
-137,2014-11-15,29,47,Rain
-138,2014-11-16,28,49,Rain
-139,2014-11-17,28,51,Overcast
-140,2014-11-18,31,45,Rain
-141,2014-11-19,36,52,Overcast
-142,2014-11-20,42,52,Overcast
-143,2014-11-21,47,52,Overcast
-144,2014-11-22,44,49,Overcast
-145,2014-11-23,42,55,Overcast
-146,2014-11-24,40,53,Overcast
-147,2014-11-25,49,57,Overcast
-148,2014-11-26,54,59,Overcast
-149,2014-11-27,53,58,Overcast
-150,2014-11-28,38,55,Overcast
-151,2014-11-29,24,40,Rain
-152,2014-11-30,23,37,Rain
-153,2014-12-1,26,40,Rain
-154,2014-12-2,26,42,Rain
-155,2014-12-3,32,50,Overcast
-156,2014-12-4,39,47,Overcast
-157,2014-12-5,44,55,Overcast
-158,2014-12-6,46,53,Overcast
-159,2014-12-7,43,58,Overcast
-160,2014-12-8,48,58,Overcast
-161,2014-12-9,51,61,Overcast
-162,2014-12-10,50,66,Overcast
-163,2014-12-11,47,58,Overcast
-164,2014-12-12,45,52,Overcast
-165,2014-12-13,39,50,Overcast
-166,2014-12-14,35,55,Overcast
-167,2014-12-15,44,54,Overcast
-168,2014-12-16,47,50,Overcast
-169,2014-12-17,43,48,Overcast
-170,2014-12-18,44,49,Overcast
-171,2014-12-19,45,52,Overcast
-172,2014-12-20,44,55,Overcast
-173,2014-12-21,50,55,Overcast
-174,2014-12-22,43,51,Overcast
-175,2014-12-23,41,54,Overcast
-176,2014-12-24,39,45,Overcast
-177,2014-12-25,37,46,Overcast
-178,2014-12-26,35,42,Rain
-179,2014-12-27,40,49,Overcast
-180,2014-12-28,37,44,Overcast
-181,2014-12-29,33,43,Rain
-182,2014-12-30,28,38,Rain
-183,2014-12-31,27,38,Rain
-184,2015-1-1,26,42,Rain
-185,2015-1-2,32,42,Rain
-186,2015-1-3,35,41,Rain
-187,2015-1-4,38,51,Overcast
-188,2015-1-5,49,54,Overcast
-189,2015-1-6,43,54,Overcast
-190,2015-1-7,42,46,Overcast
-191,2015-1-8,35,46,Overcast
-192,2015-1-9,38,50,Overcast
-193,2015-1-10,43,46,Overcast
-194,2015-1-11,45,49,Overcast
-195,2015-1-12,40,52,Overcast
-196,2015-1-13,37,49,Overcast
-197,2015-1-14,33,43,Rain
-198,2015-1-15,34,46,Overcast
-199,2015-1-16,42,53,Overcast
-200,2015-1-17,38,56,Overcast
-201,2015-1-18,45,57,Overcast
-202,2015-1-19,43,50,Overcast
-203,2015-1-20,38,50,Overcast
-204,2015-1-21,31,45,Rain
-205,2015-1-22,43,49,Overcast
-206,2015-1-23,47,54,Overcast
-207,2015-1-24,52,58,Overcast
-208,2015-1-25,45,63,Overcast
-209,2015-1-26,43,61,Overcast
-210,2015-1-27,47,52,Overcast
-211,2015-1-28,41,54,Overcast
-212,2015-1-29,38,54,Overcast
-213,2015-1-30,34,47,Overcast
-214,2015-1-31,38,45,Overcast
-215,2015-2-1,40,49,Overcast
-216,2015-2-2,41,52,Overcast
-217,2015-2-3,42,50,Overcast
-218,2015-2-4,40,51,Overcast
-219,2015-2-5,47,56,Overcast
-220,2015-2-6,50,58,Overcast
-221,2015-2-7,49,54,Overcast
-222,2015-2-8,47,59,Overcast
-223,2015-2-9,47,56,Overcast
-224,2015-2-10,47,55,Overcast
-225,2015-2-11,42,55,Overcast
-226,2015-2-12,49,62,Overcast
-227,2015-2-13,44,60,Overcast
-228,2015-2-14,44,58,Overcast
-229,2015-2-15,39,54,Overcast
-230,2015-2-16,42,59,Overcast
-231,2015-2-17,40,61,Overcast
-232,2015-2-18,40,54,Overcast
-233,2015-2-19,47,51,Overcast
-234,2015-2-20,45,52,Overcast
-235,2015-2-21,42,54,Overcast
-236,2015-2-22,38,53,Overcast
-237,2015-2-23,33,55,Overcast
-238,2015-2-24,36,52,Overcast
-239,2015-2-25,44,50,Overcast
-240,2015-2-26,46,53,Overcast
-241,2015-2-27,44,50,Overcast
-242,2015-2-28,38,54,Overcast
-243,2015-3-1,34,52,Overcast
-244,2015-3-2,40,52,Overcast
-245,2015-3-3,32,51,Overcast
-246,2015-3-4,31,55,Overcast
-247,2015-3-5,37,56,Overcast
-248,2015-3-6,38,59,Overcast
-249,2015-3-7,39,62,Overcast
-250,2015-3-8,39,63,Overcast
-251,2015-3-9,40,58,Overcast
-252,2015-3-10,41,56,Overcast
-253,2015-3-11,48,58,Overcast
-254,2015-3-12,49,64,Overcast
-255,2015-3-13,46,63,Overcast
-256,2015-3-14,49,57,Overcast
-257,2015-3-15,43,51,Overcast
-258,2015-3-16,43,57,Overcast
-259,2015-3-17,40,56,Overcast
-260,2015-3-18,45,60,Overcast
-261,2015-3-19,47,60,Overcast
-262,2015-3-20,48,57,Overcast
-263,2015-3-21,47,56,Overcast
-264,2015-3-22,43,53,Overcast
-265,2015-3-23,42,52,Overcast
-266,2015-3-24,43,55,Overcast
-267,2015-3-25,45,58,Overcast
-268,2015-3-26,50,69,Partially cloudy
-269,2015-3-27,48,65,Overcast
-270,2015-3-28,49,60,Overcast
-271,2015-3-29,48,60,Overcast
-272,2015-3-30,51,64,Overcast
-273,2015-3-31,43,55,Overcast
-274,2015-4-1,42,55,Overcast
-275,2015-4-2,42,56,Overcast
-276,2015-4-3,41,52,Overcast
-277,2015-4-4,39,55,Overcast
-278,2015-4-5,37,62,Overcast
-279,2015-4-6,44,57,Overcast
-280,2015-4-7,44,58,Overcast
-281,2015-4-8,43,63,Overcast
-282,2015-4-9,43,63,Overcast
-283,2015-4-10,46,57,Overcast
-284,2015-4-11,42,53,Overcast
-285,2015-4-12,42,56,Overcast
-286,2015-4-13,39,53,Overcast
-287,2015-4-14,37,53,Overcast
-288,2015-4-15,38,57,Overcast
-289,2015-4-16,39,64,Overcast
-290,2015-4-17,43,66,Overcast
-291,2015-4-18,47,66,Overcast
-292,2015-4-19,47,70,Overcast
-293,2015-4-20,46,73,Partially cloudy
-294,2015-4-21,44,63,Overcast
-295,2015-4-22,41,60,Overcast
-296,2015-4-23,44,54,Overcast
-297,2015-4-24,43,54,Overcast
-298,2015-4-25,42,56,Overcast
-299,2015-4-26,40,60,Overcast
-300,2015-4-27,51,77,Partially cloudy
-301,2015-4-28,48,60,Overcast
-302,2015-4-29,45,61,Overcast
-303,2015-4-30,46,63,Overcast
-304,2015-5-1,48,65,Overcast
-305,2015-5-2,46,65,Overcast
-306,2015-5-3,46,69,Overcast
-307,2015-5-4,45,63,Overcast
-308,2015-5-5,45,58,Overcast
-309,2015-5-6,45,62,Overcast
-310,2015-5-7,43,69,Overcast
-311,2015-5-8,47,75,Partially cloudy
-312,2015-5-9,49,80,Partially cloudy
-313,2015-5-10,52,67,Partially cloudy
-314,2015-5-11,50,57,Overcast
-315,2015-5-12,51,60,Overcast
-316,2015-5-13,50,54,Overcast
-317,2015-5-14,49,64,Overcast
-318,2015-5-15,49,68,Overcast
-319,2015-5-16,52,60,Overcast
-320,2015-5-17,51,67,Overcast
-321,2015-5-18,54,78,Partially cloudy
-322,2015-5-19,53,71,Partially cloudy
-323,2015-5-20,51,74,Partially cloudy
-324,2015-5-21,53,78,Partially cloudy
-325,2015-5-22,53,62,Overcast
-326,2015-5-23,53,61,Overcast
-327,2015-5-24,52,64,Overcast
-328,2015-5-25,52,60,Overcast
-329,2015-5-26,53,71,Partially cloudy
-330,2015-5-27,53,76,Partially cloudy
-331,2015-5-28,54,82,Partially cloudy
-332,2015-5-29,55,79,Partially cloudy
-333,2015-5-30,50,73,Partially cloudy
-334,2015-5-31,53,77,Partially cloudy
-335,2015-6-1,53,61,Overcast
-336,2015-6-2,55,64,Partially cloudy
-337,2015-6-3,53,68,Partially cloudy
-338,2015-6-4,53,73,Partially cloudy
-339,2015-6-5,55,80,Partially cloudy
-340,2015-6-6,56,85,Partially cloudy
-341,2015-6-7,60,88,Partially cloudy
-342,2015-6-8,58,87,Partially cloudy
-343,2015-6-9,58,84,Partially cloudy
-344,2015-6-10,52,78,Partially cloudy
-345,2015-6-11,52,76,Partially cloudy
-346,2015-6-12,53,68,Partially cloudy
-347,2015-6-13,49,75,Partially cloudy
-348,2015-6-14,53,82,Partially cloudy
-349,2015-6-15,61,86,Partially cloudy
-350,2015-6-16,52,73,Partially cloudy
-351,2015-6-17,52,77,Partially cloudy
-352,2015-6-18,57,76,Partially cloudy
-353,2015-6-19,56,75,Partially cloudy
-354,2015-6-20,55,77,Partially cloudy
-355,2015-6-21,57,78,Partially cloudy
-356,2015-6-22,55,77,Partially cloudy
-357,2015-6-23,53,79,Partially cloudy
-358,2015-6-24,61,78,Partially cloudy
-359,2015-6-25,60,87,Partially cloudy
-360,2015-6-26,64,89,Partially cloudy
-361,2015-6-27,63,92,Partially cloudy
-362,2015-6-28,65,83,Partially cloudy
-363,2015-6-29,63,84,Partially cloudy
-364,2015-6-30,59,87,Partially cloudy
+date,low,high,condition
+2014-7-1,60,94,Partially cloudy
+2014-7-2,58,81,Partially cloudy
+2014-7-3,57,71,Partially cloudy
+2014-7-4,57,75,Partially cloudy
+2014-7-5,56,76,Partially cloudy
+2014-7-6,59,84,Partially cloudy
+2014-7-7,64,81,Partially cloudy
+2014-7-8,60,86,Partially cloudy
+2014-7-9,57,80,Partially cloudy
+2014-7-10,55,84,Partially cloudy
+2014-7-11,59,88,Partially cloudy
+2014-7-12,62,90,Partially cloudy
+2014-7-13,59,85,Partially cloudy
+2014-7-14,59,82,Partially cloudy
+2014-7-15,57,88,Partially cloudy
+2014-7-16,58,88,Partially cloudy
+2014-7-17,57,80,Partially cloudy
+2014-7-18,53,75,Partially cloudy
+2014-7-19,59,78,Partially cloudy
+2014-7-20,58,67,Partially cloudy
+2014-7-21,56,75,Partially cloudy
+2014-7-22,56,70,Partially cloudy
+2014-7-23,56,66,Partially cloudy
+2014-7-24,55,69,Partially cloudy
+2014-7-25,54,73,Partially cloudy
+2014-7-26,56,79,Partially cloudy
+2014-7-27,59,83,Partially cloudy
+2014-7-28,59,87,Partially cloudy
+2014-7-29,60,86,Partially cloudy
+2014-7-30,58,85,Partially cloudy
+2014-7-31,64,87,Partially cloudy
+2014-8-1,59,84,Partially cloudy
+2014-8-2,60,85,Partially cloudy
+2014-8-3,58,89,Partially cloudy
+2014-8-4,61,91,Partially cloudy
+2014-8-5,57,77,Partially cloudy
+2014-8-6,59,79,Partially cloudy
+2014-8-7,56,78,Partially cloudy
+2014-8-8,56,78,Partially cloudy
+2014-8-9,60,81,Partially cloudy
+2014-8-10,57,87,Partially cloudy
+2014-8-11,64,96,Clear
+2014-8-12,63,81,Partially cloudy
+2014-8-13,59,74,Partially cloudy
+2014-8-14,63,70,Partially cloudy
+2014-8-15,62,76,Partially cloudy
+2014-8-16,60,78,Partially cloudy
+2014-8-17,59,82,Partially cloudy
+2014-8-18,60,85,Partially cloudy
+2014-8-19,60,81,Partially cloudy
+2014-8-20,57,71,Partially cloudy
+2014-8-21,52,70,Partially cloudy
+2014-8-22,56,75,Partially cloudy
+2014-8-23,57,82,Partially cloudy
+2014-8-24,56,77,Partially cloudy
+2014-8-25,58,84,Partially cloudy
+2014-8-26,60,88,Partially cloudy
+2014-8-27,61,84,Partially cloudy
+2014-8-28,58,74,Partially cloudy
+2014-8-29,59,73,Partially cloudy
+2014-8-30,59,64,Partially cloudy
+2014-8-31,57,70,Partially cloudy
+2014-9-1,55,74,Partially cloudy
+2014-9-2,57,68,Partially cloudy
+2014-9-3,55,69,Partially cloudy
+2014-9-4,52,75,Partially cloudy
+2014-9-5,57,82,Partially cloudy
+2014-9-6,59,90,Partially cloudy
+2014-9-7,56,83,Partially cloudy
+2014-9-8,56,70,Partially cloudy
+2014-9-9,56,71,Partially cloudy
+2014-9-10,54,72,Partially cloudy
+2014-9-11,55,76,Partially cloudy
+2014-9-12,55,76,Partially cloudy
+2014-9-13,50,83,Partially cloudy
+2014-9-14,53,86,Partially cloudy
+2014-9-15,54,87,Partially cloudy
+2014-9-16,57,72,Partially cloudy
+2014-9-17,58,73,Partially cloudy
+2014-9-18,59,67,Partially cloudy
+2014-9-19,61,75,Partially cloudy
+2014-9-20,58,76,Partially cloudy
+2014-9-21,55,79,Partially cloudy
+2014-9-22,59,72,Partially cloudy
+2014-9-23,58,66,Partially cloudy
+2014-9-24,58,66,Partially cloudy
+2014-9-25,58,71,Partially cloudy
+2014-9-26,57,68,Partially cloudy
+2014-9-27,53,69,Partially cloudy
+2014-9-28,54,66,Partially cloudy
+2014-9-29,52,62,Overcast
+2014-9-30,54,67,Partially cloudy
+2014-10-1,52,65,Overcast
+2014-10-2,50,67,Overcast
+2014-10-3,48,72,Partially cloudy
+2014-10-4,54,71,Partially cloudy
+2014-10-5,53,75,Partially cloudy
+2014-10-6,56,78,Partially cloudy
+2014-10-7,57,66,Partially cloudy
+2014-10-8,55,69,Partially cloudy
+2014-10-9,52,63,Overcast
+2014-10-10,50,65,Overcast
+2014-10-11,53,65,Overcast
+2014-10-12,53,64,Overcast
+2014-10-13,50,70,Partially cloudy
+2014-10-14,53,62,Overcast
+2014-10-15,53,61,Overcast
+2014-10-16,52,69,Partially cloudy
+2014-10-17,53,62,Overcast
+2014-10-18,57,67,Partially cloudy
+2014-10-19,55,72,Partially cloudy
+2014-10-20,54,61,Overcast
+2014-10-21,53,61,Overcast
+2014-10-22,53,60,Overcast
+2014-10-23,47,58,Overcast
+2014-10-24,48,58,Overcast
+2014-10-25,47,62,Overcast
+2014-10-26,46,55,Overcast
+2014-10-27,44,60,Overcast
+2014-10-28,49,59,Overcast
+2014-10-29,53,62,Overcast
+2014-10-30,52,60,Overcast
+2014-10-31,47,55,Overcast
+2014-11-1,45,52,Overcast
+2014-11-2,45,56,Overcast
+2014-11-3,52,57,Overcast
+2014-11-4,51,58,Overcast
+2014-11-5,51,59,Overcast
+2014-11-6,51,62,Overcast
+2014-11-7,45,58,Overcast
+2014-11-8,39,55,Overcast
+2014-11-9,46,56,Overcast
+2014-11-10,42,52,Overcast
+2014-11-11,34,46,Overcast
+2014-11-12,32,44,Rain
+2014-11-13,33,45,Rain
+2014-11-14,28,45,Rain
+2014-11-15,29,47,Rain
+2014-11-16,28,49,Rain
+2014-11-17,28,51,Overcast
+2014-11-18,31,45,Rain
+2014-11-19,36,52,Overcast
+2014-11-20,42,52,Overcast
+2014-11-21,47,52,Overcast
+2014-11-22,44,49,Overcast
+2014-11-23,42,55,Overcast
+2014-11-24,40,53,Overcast
+2014-11-25,49,57,Overcast
+2014-11-26,54,59,Overcast
+2014-11-27,53,58,Overcast
+2014-11-28,38,55,Overcast
+2014-11-29,24,40,Rain
+2014-11-30,23,37,Rain
+2014-12-1,26,40,Rain
+2014-12-2,26,42,Rain
+2014-12-3,32,50,Overcast
+2014-12-4,39,47,Overcast
+2014-12-5,44,55,Overcast
+2014-12-6,46,53,Overcast
+2014-12-7,43,58,Overcast
+2014-12-8,48,58,Overcast
+2014-12-9,51,61,Overcast
+2014-12-10,50,66,Overcast
+2014-12-11,47,58,Overcast
+2014-12-12,45,52,Overcast
+2014-12-13,39,50,Overcast
+2014-12-14,35,55,Overcast
+2014-12-15,44,54,Overcast
+2014-12-16,47,50,Overcast
+2014-12-17,43,48,Overcast
+2014-12-18,44,49,Overcast
+2014-12-19,45,52,Overcast
+2014-12-20,44,55,Overcast
+2014-12-21,50,55,Overcast
+2014-12-22,43,51,Overcast
+2014-12-23,41,54,Overcast
+2014-12-24,39,45,Overcast
+2014-12-25,37,46,Overcast
+2014-12-26,35,42,Rain
+2014-12-27,40,49,Overcast
+2014-12-28,37,44,Overcast
+2014-12-29,33,43,Rain
+2014-12-30,28,38,Rain
+2014-12-31,27,38,Rain
+2015-1-1,26,42,Rain
+2015-1-2,32,42,Rain
+2015-1-3,35,41,Rain
+2015-1-4,38,51,Overcast
+2015-1-5,49,54,Overcast
+2015-1-6,43,54,Overcast
+2015-1-7,42,46,Overcast
+2015-1-8,35,46,Overcast
+2015-1-9,38,50,Overcast
+2015-1-10,43,46,Overcast
+2015-1-11,45,49,Overcast
+2015-1-12,40,52,Overcast
+2015-1-13,37,49,Overcast
+2015-1-14,33,43,Rain
+2015-1-15,34,46,Overcast
+2015-1-16,42,53,Overcast
+2015-1-17,38,56,Overcast
+2015-1-18,45,57,Overcast
+2015-1-19,43,50,Overcast
+2015-1-20,38,50,Overcast
+2015-1-21,31,45,Rain
+2015-1-22,43,49,Overcast
+2015-1-23,47,54,Overcast
+2015-1-24,52,58,Overcast
+2015-1-25,45,63,Overcast
+2015-1-26,43,61,Overcast
+2015-1-27,47,52,Overcast
+2015-1-28,41,54,Overcast
+2015-1-29,38,54,Overcast
+2015-1-30,34,47,Overcast
+2015-1-31,38,45,Overcast
+2015-2-1,40,49,Overcast
+2015-2-2,41,52,Overcast
+2015-2-3,42,50,Overcast
+2015-2-4,40,51,Overcast
+2015-2-5,47,56,Overcast
+2015-2-6,50,58,Overcast
+2015-2-7,49,54,Overcast
+2015-2-8,47,59,Overcast
+2015-2-9,47,56,Overcast
+2015-2-10,47,55,Overcast
+2015-2-11,42,55,Overcast
+2015-2-12,49,62,Overcast
+2015-2-13,44,60,Overcast
+2015-2-14,44,58,Overcast
+2015-2-15,39,54,Overcast
+2015-2-16,42,59,Overcast
+2015-2-17,40,61,Overcast
+2015-2-18,40,54,Overcast
+2015-2-19,47,51,Overcast
+2015-2-20,45,52,Overcast
+2015-2-21,42,54,Overcast
+2015-2-22,38,53,Overcast
+2015-2-23,33,55,Overcast
+2015-2-24,36,52,Overcast
+2015-2-25,44,50,Overcast
+2015-2-26,46,53,Overcast
+2015-2-27,44,50,Overcast
+2015-2-28,38,54,Overcast
+2015-3-1,34,52,Overcast
+2015-3-2,40,52,Overcast
+2015-3-3,32,51,Overcast
+2015-3-4,31,55,Overcast
+2015-3-5,37,56,Overcast
+2015-3-6,38,59,Overcast
+2015-3-7,39,62,Overcast
+2015-3-8,39,63,Overcast
+2015-3-9,40,58,Overcast
+2015-3-10,41,56,Overcast
+2015-3-11,48,58,Overcast
+2015-3-12,49,64,Overcast
+2015-3-13,46,63,Overcast
+2015-3-14,49,57,Overcast
+2015-3-15,43,51,Overcast
+2015-3-16,43,57,Overcast
+2015-3-17,40,56,Overcast
+2015-3-18,45,60,Overcast
+2015-3-19,47,60,Overcast
+2015-3-20,48,57,Overcast
+2015-3-21,47,56,Overcast
+2015-3-22,43,53,Overcast
+2015-3-23,42,52,Overcast
+2015-3-24,43,55,Overcast
+2015-3-25,45,58,Overcast
+2015-3-26,50,69,Partially cloudy
+2015-3-27,48,65,Overcast
+2015-3-28,49,60,Overcast
+2015-3-29,48,60,Overcast
+2015-3-30,51,64,Overcast
+2015-3-31,43,55,Overcast
+2015-4-1,42,55,Overcast
+2015-4-2,42,56,Overcast
+2015-4-3,41,52,Overcast
+2015-4-4,39,55,Overcast
+2015-4-5,37,62,Overcast
+2015-4-6,44,57,Overcast
+2015-4-7,44,58,Overcast
+2015-4-8,43,63,Overcast
+2015-4-9,43,63,Overcast
+2015-4-10,46,57,Overcast
+2015-4-11,42,53,Overcast
+2015-4-12,42,56,Overcast
+2015-4-13,39,53,Overcast
+2015-4-14,37,53,Overcast
+2015-4-15,38,57,Overcast
+2015-4-16,39,64,Overcast
+2015-4-17,43,66,Overcast
+2015-4-18,47,66,Overcast
+2015-4-19,47,70,Overcast
+2015-4-20,46,73,Partially cloudy
+2015-4-21,44,63,Overcast
+2015-4-22,41,60,Overcast
+2015-4-23,44,54,Overcast
+2015-4-24,43,54,Overcast
+2015-4-25,42,56,Overcast
+2015-4-26,40,60,Overcast
+2015-4-27,51,77,Partially cloudy
+2015-4-28,48,60,Overcast
+2015-4-29,45,61,Overcast
+2015-4-30,46,63,Overcast
+2015-5-1,48,65,Overcast
+2015-5-2,46,65,Overcast
+2015-5-3,46,69,Overcast
+2015-5-4,45,63,Overcast
+2015-5-5,45,58,Overcast
+2015-5-6,45,62,Overcast
+2015-5-7,43,69,Overcast
+2015-5-8,47,75,Partially cloudy
+2015-5-9,49,80,Partially cloudy
+2015-5-10,52,67,Partially cloudy
+2015-5-11,50,57,Overcast
+2015-5-12,51,60,Overcast
+2015-5-13,50,54,Overcast
+2015-5-14,49,64,Overcast
+2015-5-15,49,68,Overcast
+2015-5-16,52,60,Overcast
+2015-5-17,51,67,Overcast
+2015-5-18,54,78,Partially cloudy
+2015-5-19,53,71,Partially cloudy
+2015-5-20,51,74,Partially cloudy
+2015-5-21,53,78,Partially cloudy
+2015-5-22,53,62,Overcast
+2015-5-23,53,61,Overcast
+2015-5-24,52,64,Overcast
+2015-5-25,52,60,Overcast
+2015-5-26,53,71,Partially cloudy
+2015-5-27,53,76,Partially cloudy
+2015-5-28,54,82,Partially cloudy
+2015-5-29,55,79,Partially cloudy
+2015-5-30,50,73,Partially cloudy
+2015-5-31,53,77,Partially cloudy
+2015-6-1,53,61,Overcast
+2015-6-2,55,64,Partially cloudy
+2015-6-3,53,68,Partially cloudy
+2015-6-4,53,73,Partially cloudy
+2015-6-5,55,80,Partially cloudy
+2015-6-6,56,85,Partially cloudy
+2015-6-7,60,88,Partially cloudy
+2015-6-8,58,87,Partially cloudy
+2015-6-9,58,84,Partially cloudy
+2015-6-10,52,78,Partially cloudy
+2015-6-11,52,76,Partially cloudy
+2015-6-12,53,68,Partially cloudy
+2015-6-13,49,75,Partially cloudy
+2015-6-14,53,82,Partially cloudy
+2015-6-15,61,86,Partially cloudy
+2015-6-16,52,73,Partially cloudy
+2015-6-17,52,77,Partially cloudy
+2015-6-18,57,76,Partially cloudy
+2015-6-19,56,75,Partially cloudy
+2015-6-20,55,77,Partially cloudy
+2015-6-21,57,78,Partially cloudy
+2015-6-22,55,77,Partially cloudy
+2015-6-23,53,79,Partially cloudy
+2015-6-24,61,78,Partially cloudy
+2015-6-25,60,87,Partially cloudy
+2015-6-26,64,89,Partially cloudy
+2015-6-27,63,92,Partially cloudy
+2015-6-28,65,83,Partially cloudy
+2015-6-29,63,84,Partially cloudy
+2015-6-30,59,87,Partially cloudy
