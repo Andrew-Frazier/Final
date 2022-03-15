@@ -12,7 +12,7 @@
     <script src="https://unpkg.com/d3-sankey@0"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
 
-    <h1 style="text-align: center;">Weather in Seattle in September</h1>
+    <h1 style="text-align: center;">Weather in Seattle in September 2014</h1>
 
     <h2>Change Month</h2>
     <div id="head2" style="width:15%;float:left;margin-left:5px;">
@@ -34,7 +34,7 @@
         </div>
   
        
-    <div class="figgg" id="dd" style="float:right; padding-right: 6em;">
+    <div class="figgg" id="dd" style="float:right; padding-right: 20em; ">
     <script>
 
         var width = 1024, height = 768;
@@ -107,7 +107,7 @@
                 "July", "August", "September", "October", "November", "December" ];
 
                 var selectedMonthName = months[month - 1];
-                b.innerHTML = "Weather in Seattle in " + selectedMonthName
+                b.innerHTML = "Weather in Seattle in " + selectedMonthName + " 2014"
                 console.log(e)
                 data = data.filter(d => new Date(d["date"]).getMonth() + 1 == month );
                 new WeatherChart(svg)
