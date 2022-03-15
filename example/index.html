@@ -33,6 +33,7 @@
         </select> 
         </div>
   
+       
     <div class="figgg" id="dd" style="float:right; padding-right: 6em;">
     <script>
 
@@ -99,9 +100,15 @@
                 .attr("height", height);            
             
             
-
                 
                 var month = e.target.value
+                const b = document.querySelector('h1');
+                var months = [ "January", "February", "March", "April", "May", "June", 
+                "July", "August", "September", "October", "November", "December" ];
+
+                var selectedMonthName = months[month - 1];
+                b.innerHTML = "Weather in Seattle in " + selectedMonthName
+                console.log(e)
                 data = data.filter(d => new Date(d["date"]).getMonth() + 1 == month );
                 new WeatherChart(svg)
                 .size(width, 500)
@@ -115,3 +122,4 @@
     </div>
 </body>
 </html>
+
