@@ -82,6 +82,7 @@ class WeatherChart {
         this._init();        
         this._process(data);
         this._drawSankey();
+        const title = this._parent.append("h2").attr("class", "ttt").text("Day of Month")
         this._drawTempChart();
         return this;
     }
@@ -97,7 +98,7 @@ class WeatherChart {
             const date = d[this._column.date];
             var cond = d[this._column.condition];
             cond = (cond.startsWith("Rain") ? "Rain" : cond.startsWith("Snow") ? "Snow" : cond)            
-            console.log(cond)
+ 
             return {
                 date: date,
                 day: new Date(date).getDate(),
@@ -232,6 +233,8 @@ class WeatherChart {
     _drawSankey() {
         var that = this;      
         
+
+
         const g = this._parent.append("g")
             .attr("transform", `translate(${this._leftMargin},${this._margin.sankeyTop})`);
 
@@ -248,7 +251,7 @@ class WeatherChart {
 
         this._addCondition(nodes);
         this._addDate(nodes);
-
+       
         const links = g.append("g")
             .attr("fill", "none")
             .selectAll("g")

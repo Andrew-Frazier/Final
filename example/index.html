@@ -10,9 +10,34 @@
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="src/weather.js"></script>
     <script src="https://unpkg.com/d3-sankey@0"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+
+    <h1 style="text-align: center;">Weather in Seattle in September</h1>
+
+    <h2>Change Month</h2>
+    <div id="head2" style="width:15%;float:left;margin-left:5px;">
+        <select id='gMonth2' >
+        <option value=''>--Select Month--</option>
+        <option selected value='1'>Janaury</option>
+        <option value='2'>February</option>
+        <option value='3'>March</option>
+        <option value='4'>April</option>
+        <option value='5'>May</option>
+        <option value='6'>June</option>
+        <option value='7'>July</option>
+        <option value='8'>August</option>
+        <option value='9'>September</option>
+        <option value='10'>October</option>
+        <option value='11'>November</option>
+        <option value='12'>December</option>
+        </select> 
+        </div>
+  
+    <div class="figgg" id="dd" style="float:right; padding-right: 6em;">
     <script>
 
         var width = 1024, height = 768;
+        var month = 1;
 
         const weatherIcons = {
             clear: "images/clear.svg",
@@ -21,16 +46,19 @@
             rain: "images/rain.svg",
             snow: "images/snow.svg"
         }
-
-        d3.csv("https://raw.githubusercontent.com/Andrew-Frazier/Final/master/example/seattle.csv", d3.autoType).then(function (data) {
+        //var link = "https://raw.githubusercontent.com/analyzer2004/weathersankey/master/example/seattle_19.csv"
+        var link = "https://raw.githubusercontent.com/Andrew-Frazier/Final/master/example/seattle.csv"
+        d3.csv(link, d3.autoType).then(function (data) {
             console.log(data)
-            const svg = d3.select("body").append("svg")
+            const svg = d3.select(".figgg").append("svg")
                 .attr("cursor", "default")
                 .attr("font-size", "11pt")
                 .attr("width", width)
                 .attr("height", height);            
+            
+            
 
-            data = data.filter(d => new Date(d["date"]).getMonth() + 1 === 1);
+            data = data.filter(d => new Date(d["date"]).getMonth() + 1 === month );
 
             new WeatherChart(svg)
                 .size(width, 500)
@@ -41,5 +69,49 @@
         });
 
     </script>
+    
+    <script>
+        document.getElementById("gMonth2").addEventListener("change", function(e) {
+            
+        const boxes = document.querySelectorAll('svg');
+
+        boxes.forEach(box => {
+            box.remove();
+        });
+        var width = 1024, height = 768;
+
+
+        const weatherIcons = {
+            clear: "images/clear.svg",
+            cloudy: "images/cloudy.svg",
+            overcast: "images/overcast.svg",
+            rain: "images/rain.svg",
+            snow: "images/snow.svg"
+        }
+        //var link = "https://raw.githubusercontent.com/analyzer2004/weathersankey/master/example/seattle_19.csv"
+        var link = "https://raw.githubusercontent.com/Andrew-Frazier/Final/master/example/seattle.csv"
+        d3.csv(link, d3.autoType).then(function (data) {
+            console.log(data)
+            const svg = d3.select(".figgg").append("svg")
+                .attr("cursor", "default")
+                .attr("font-size", "11pt")
+                .attr("width", width)
+                .attr("height", height);            
+            
+            
+
+                
+                var month = e.target.value
+                data = data.filter(d => new Date(d["date"]).getMonth() + 1 == month );
+                new WeatherChart(svg)
+                .size(width, 500)
+                .icon(weatherIcons)
+                .sort(0)
+                .render(data);
+
+      
+            })});
+    </script>
+    </div>
 </body>
 </html>
