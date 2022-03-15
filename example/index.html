@@ -60,7 +60,7 @@
             
 
             data = data.filter(d => new Date(d["date"]).getMonth() + 1 === month );
-
+            console.log(data)
             new WeatherChart(svg)
                 .size(width, 500)
                 .icon(weatherIcons)

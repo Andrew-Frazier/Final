@@ -43,11 +43,11 @@ class WeatherChart {
     icon(icon) {
         this._conditions = [
             
-            { id: "Clear", index: 0, color: "#fff3b0", icon: icon.clear },
-            { id: "Partially cloudy", index: 1, color: "#e7d8c9", icon: icon.cloudy },
-            { id: "Overcast", color: "#ddd", index: 2, icon: icon.overcast },
-            { id: "Rain", color: "#98c1d9", index: 3, icon: icon.rain },
-            { id: "Snow", color: "#c2dfe3", index: 4, icon: icon.snow }
+            { id: "Clear", index: 0, color: "#fff3b0", icon: "Warmest" },
+            { id: "Partially cloudy", index: 1, color: "#e7d8c9", icon: "Warmer" },
+            { id: "Overcast", color: "#ddd", index: 2, icon:  "Average"},
+            { id: "Rain", color: "#98c1d9", index: 3, icon: "Colder" },
+            { id: "Snow", color: "#c2dfe3", index: 4, icon: "Coldest" }
 
             //{ id: "[80, 100]", index: 0, color: "#fff3b0", icon: icon.clear },
             //{ id: "[60, 80]", index: 1, color: "#e7d8c9", icon: icon.cloudy },
@@ -82,7 +82,7 @@ class WeatherChart {
         this._init();        
         this._process(data);
         this._drawSankey();
-        const title = this._parent.append("h2").attr("class", "ttt").text("Day of Month")
+        //const title = this._parent.append("h2").attr("class", "ttt").text("Day of Month")
         this._drawTempChart();
         return this;
     }
@@ -97,7 +97,7 @@ class WeatherChart {
         const converted = data.map(d => {
             const date = d[this._column.date];
             var cond = d[this._column.condition];
-            cond = (cond.startsWith("Rain") ? "Rain" : cond.startsWith("Snow") ? "Snow" : cond)            
+            cond = (cond.startsWith("Rain") ? "Rain" : cond.startsWith("snow") ? "Snow" : cond)            
  
             return {
                 date: date,
@@ -285,11 +285,12 @@ class WeatherChart {
 
     _addCondition(nodes) {        
         nodes.filter(d => d.depth === 0)
-            .call(g => g.append("image")
+            .call(g => g.append("h3")
                 .attr("width", this._iconSize)
                 .attr("height", this._iconSize)
                 .attr("opacity", 0.4)
-                .attr("href", d => this._lookup(d.id).icon)
+                .attr("fill", d => d3.color(d.color).darker(0.3))
+                .text( d => this._lookup(d.id).icon)
                 .attr("transform", `translate(5,-${this._margin.sankeyTop})`))
             .call(g => g.append("line")
                 .attr("stroke", "#999")
@@ -302,7 +303,7 @@ class WeatherChart {
                 .attr("fill", d => d3.color(d.color).darker(0.3))
                 .attr("text-anchor", "end")
                 .attr("transform", d => `translate(${d.y1 - d.y0}, -2)`)
-                .text(d => d.value));
+                .text( d => this._lookup(d.id).icon));
     }
 
     _addDate(nodes) {
